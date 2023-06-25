@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Smart Contracts**
 
-- 🌱 I’m currently learning **Solidity and Blockchain Structures**
+- 🌱 I’m currently learning **Solidity and Blockchain Structures to fix my trust issues:"]]]]**
 
 - 📫 How to reach me **itrayana.4321@gmail.com**
 
